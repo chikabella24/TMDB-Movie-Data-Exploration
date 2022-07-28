@@ -22,5 +22,5 @@ The most popular genre of the movie changed over the year and we can see that mo
 Key Insights for Presentation
 
 For this presentation i will be revealing the collective factors to get insights on the genres,revenues,budgets, i will be using this attributes of interest:- Genres, Revenue, Rating, Popularity e.t.c, to explain the Genres that has Total Budget Allocation and Total Revenue Sales,What Movie Titles are more Popular,
-What Genres are more popular and their Ratings,Which Genres are most popular from year to year,The Number OF Genres of Movies Released Over Years
+What Genres are more popular and their Ratings,Which Genres are most popular from year to year,Does budget show a significant relationship with revenue for sales of the movies
 
